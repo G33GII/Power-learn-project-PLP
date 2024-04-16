@@ -34,7 +34,7 @@ section {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
 }
 
@@ -42,3 +42,5 @@ section {
     width: 100%;
     border-radius: 5px;
 }
+
+
